@@ -1,2 +1,8 @@
 Nom de mon formateur : Yann LEBEQUE
+<<<<<<< HEAD
 Les coordonnées géographique de la Wild Code School sont 47.21144022283323, -1.5475593449509282
+=======
+
+Les coordonnées géographique de la Wild Code School sont 47.21144022283323, -1.5475593449509282
+Mon nom : Arash NILOUFARY
+>>>>>>> 05062e61f6946c3a7968e6b2dc88326ced54b2e9
